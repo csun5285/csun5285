@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - [x] [CMU 15-213](https://www.cs.cmu.edu/~213/)                     &emsp;   Introduction to Computer Systems (ICS)
 - [ ] [MIT 6.S081](https://pdos.csail.mit.edu/6.828/2021/index.html) &emsp;   Operating System Engineering   
 - [ ] [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2022/)       &emsp;   Database Systems
-- [ ] [MIT 6.824](https://pdos.csail.mit.edu/6.824/)                 &emsp;   Distributed Systems
+- [ ] [MIT 6.824](https://pdos.csail.mit.edu/6.824/)          &emsp; &emsp;   Distributed Systems
 
 
